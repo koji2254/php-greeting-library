@@ -1,0 +1,16 @@
+{
+    "name": "user/greetings",
+    "type": "library",
+    "license": "QUTHS",
+    "authors": [
+        {
+            "name": "Koji Josh"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "MyNamespace\\": "src/"
+        }
+    }
+}
