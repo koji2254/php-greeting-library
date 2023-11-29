@@ -1,1 +1,1 @@
-# php-greeting-liibrary
+# php-greeting-library
